@@ -1,8 +1,0 @@
-#!/bin/bash 
-# usage: connection to  a repo for pullin request.
-#mkdir -p "myDemo"
-#cd "tryouts"
-echo "you are curently in myDemo"
-touch "katarina"
-cat "katarina"
-git  push http://github.com:geogito/tryouts.git 
